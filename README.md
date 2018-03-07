@@ -1,6 +1,6 @@
 # AndroidCollectList
 
-[Blurry](https://github.com/wasabeef/Blurry)
+[Blurry](https://github.com/wasabeef/Blurry "Blurry"){:target="_blank"}  
 
 [BlurKit-Android](https://github.com/wonderkiln/BlurKit-Android)
 
