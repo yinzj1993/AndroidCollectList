@@ -19,6 +19,10 @@
 
 > * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
 
+> * [MultiType](https://github.com/drakeet/MultiType)
+
+> * [Fragmentation](https://github.com/YoKeyword/Fragmentation)
+
 ### 网络
 
 > * [nanohttpd](https://github.com/NanoHttpd/nanohttpd)
