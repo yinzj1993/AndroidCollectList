@@ -23,6 +23,8 @@
 
 > * [Fragmentation](https://github.com/YoKeyword/Fragmentation)
 
+> * [Slidr](https://github.com/r0adkll/Slidr)
+
 ### 网络
 
 > * [nanohttpd](https://github.com/NanoHttpd/nanohttpd)
