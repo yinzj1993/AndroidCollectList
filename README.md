@@ -5,6 +5,10 @@
 
 > * [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis)
 
+> * [AndroidNote](https://github.com/GcsSloop/AndroidNote)
+
+> * [BeesAndroid](https://github.com/BeesAndroid/BeesAndroid)
+
 ### Java
 
 > * [javassist](https://github.com/jboss-javassist/javassist)
