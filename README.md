@@ -15,6 +15,12 @@
 
 > * [javassist](https://github.com/jboss-javassist/javassist)
 
+### Javac
+
+> * [rewrite](https://github.com/Netflix-Skunkworks/rewrite)
+> * [Javaparser](https://github.com/Javaparser/Javaparser)
+> * [lombok](https://github.com/rzwitserloot/lombok)
+
 ### Widget
 
 > * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
