@@ -25,6 +25,8 @@
 
 > * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
+> * [MultiType](https://github.com/drakeet/MultiType)
+
 > * [SelectableTextHelper](https://github.com/laobie/SelectableTextHelper)
 
 > * [LargeImage](https://github.com/LuckyJayce/LargeImage)
