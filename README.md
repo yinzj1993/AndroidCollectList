@@ -41,6 +41,8 @@
 
 > * [Slidr](https://github.com/r0adkll/Slidr)
 
+> * [MagicIndicator](https://github.com/hackware1993/MagicIndicator)
+
 ### 网络
 
 > * [nanohttpd](https://github.com/NanoHttpd/nanohttpd)
